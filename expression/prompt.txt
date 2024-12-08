@@ -1,0 +1,10 @@
+QUESTION
+----------------------------
+Return the answer in the specified JSON format:
+{"expression": string }
+ONLY include the JSON response.
+DO NOT use latex.
+
+ex.
+[USER] What is the derivative of x^2:
+[SYSTEM] {"expression": "2x"}
