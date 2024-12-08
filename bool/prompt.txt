@@ -1,10 +1,9 @@
 QUESTION
 ----------------------------
 Return the answer in the specified JSON format:
-{"expression": string }
+{"expression": boolean }
 ONLY include the JSON response.
-DO NOT use latex.
 
 ex.
-[USER] What is the derivative of x^2:
-[SYSTEM] {"expression": "2x"}
+[USER] Is y=(x^2)/(x-2) continuous at x=2?
+[SYSTEM] {"expression": false}
