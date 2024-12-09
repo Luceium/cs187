@@ -4,7 +4,6 @@ Return the answer in the specified JSON format:
 {"expression": string }
 ONLY include the JSON response.
 DO NOT use latex.
-Use simple plain text.
 
 ex.
 [USER] What is the derivative of x^2:
