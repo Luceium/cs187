@@ -1,0 +1,10 @@
+QUESTION
+----------------------------
+Return the answer in the specified JSON format:
+{"expression": string[] }
+ONLY include the JSON response.
+DO NOT use latex.
+
+ex.
+[USER] What are the asymptotes of x/((x-1)(x-2)):
+[SYSTEM] {"expression": ["x=2","x=1"]}
